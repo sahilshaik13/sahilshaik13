@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development and Python.<br>👯 I’m looking to collaborate on Open-source projects and Innovative web applications.<br>🤝 I’m looking for help with Front-end frameworks and API integrations.<br>🌱 I’m currently learning React.js and machine learning algorithms.<br>💬 Ask me about Prompt Skills, Python libraries, or best practices for coding.<br>⚡ Fun fact about me: I have a special interest in science.<br>
+🔭 I’m currently working on Web Development and Python.<br>👯 I’m looking to collaborate on Open-source projects and Innovative web applications.<br>✨ Recently learnt how to host with vercel and GitHub Pages.<br>🤝 I’m looking for help with Front-end frameworks and API integrations.<br>🌱 I’m currently learning React.js and machine learning algorithms.<br>💬 Ask me about Prompt Skills, Python libraries, or best practices for coding.<br>⚡ Fun fact about me: I have a special interest in science.<br>
 
 
 ## 🌐 Socials:
